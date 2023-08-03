@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.haki{
+
+  font-weight: 700;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
